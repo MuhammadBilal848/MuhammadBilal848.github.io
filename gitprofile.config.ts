@@ -14,18 +14,23 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          // projects: [MuhammadBilal848/Power-BI-Dashboard-For-US-Mass-Shootings,MuhammadBilal848/Power-BI-Dashboard-For-Accidents,MuhammadBilal848/ChatGpt-Api-Fine-Tuning,
+          //           MuhammadBilal848/Portfolio-Website,MuhammadBilal848/Vector-DB-Qdrant], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-', 'MuhammadBilal848/GenView-FYP1','MuhammadBilal848/Bone-Fracture-Identifier',
+                  'MuhammadBilal848/Next-Word-Predictor-LSTM-Implementation-','MuhammadBilal848/Query-X','MuhammadBilal848/Real-Time-License-Plate-Extraction-Using-Custom-Trained-YOLOv8',
+                  'MuhammadBilal848/Student-Performance-Indicator','MuhammadBilal848/BlurX'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,31 +57,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Bilal Haneef',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'https://www.linkedin.com/in/bilal-haneef-32014a1a2/',
+    twitter: 'https://twitter.com/mbhqs',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'https://www.youtube.com/channel/UCEiJ1j-nJnYK5ug2nRJjG7w', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: 'https://medium.com/@bilalhanif848',
     dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'bilalhanif848@gmail.com',
   },
   resume: {
     fileUrl:
