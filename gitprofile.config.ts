@@ -143,7 +143,7 @@ const CONFIG = {
     {
       name: 'Machine Learning Specialization (Coursera)',
       body: '',
-      year: 'February 8, 2023',
+      year: 'February 08, 2023',
       link: 'https://www.coursera.org/account/accomplishments/specialization/XJP4NXRVSKLV',
     },
         {
