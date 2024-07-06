@@ -140,18 +140,6 @@ const CONFIG = {
     },
   ],
   certifications: [
-    {
-      name: 'Machine Learning Specialization (Coursera)',
-      body: '',
-      year: 'February 08, 2023',
-      link: 'https://www.coursera.org/account/accomplishments/specialization/XJP4NXRVSKLV',
-    },
-        {
-      name: 'Deep Learning Specialization (Coursera)',
-      body: '',
-      year: 'April 12, 2023',
-      link: 'https://www.coursera.org/account/accomplishments/specialization/DK75F53KP4AX',
-    },
         {
       name: 'Natural Language Processing with Classification and Vector Spaces (Coursera)',
       body: '',
@@ -159,16 +147,28 @@ const CONFIG = {
       link: 'https://coursera.org/share/87c6d5d270057cde5099ae75e50d1e9a',
     },
         {
-      name: 'Statistics For Business Analysis (365DataScience)',
-      body: '',
-      year: 'November 16, 2022',
-      link: 'https://learn.365datascience.com/certificates/CC-8BCBC8E2B1/',
-    },
-        {
       name: 'Optical Character Recognition (OCR) MasterClass in Python (Udemy)',
       body: '',
       year: 'May 05, 2023',
       link: 'https://www.udemy.com/certificate/UC-4042a651-fa67-444b-8f08-5060816b8cdf/',
+    },
+      {
+      name: 'Deep Learning Specialization (Coursera)',
+      body: '',
+      year: 'April 12, 2023',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/DK75F53KP4AX',
+    },
+        {
+      name: 'Machine Learning Specialization (Coursera)',
+      body: '',
+      year: 'February 08, 2023',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/XJP4NXRVSKLV',
+    },
+            {
+      name: 'Statistics For Business Analysis (365DataScience)',
+      body: '',
+      year: 'November 16, 2022',
+      link: 'https://learn.365datascience.com/certificates/CC-8BCBC8E2B1/',
     },
         {
       name: 'Data Analysis With Python (FreeCodeCamp)',
