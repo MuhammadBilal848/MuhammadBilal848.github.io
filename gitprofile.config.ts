@@ -127,6 +127,7 @@ const CONFIG = {
     {
       company: 'Folio3 Pvt. Ltd.',
       position: 'AI Intern',
+      body: 'DID THIS AND THAT',
       from: 'July 2023',
       to: 'September 2023',
       companyLink: 'https://folio3.com/',
