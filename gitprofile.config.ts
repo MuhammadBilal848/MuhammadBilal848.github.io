@@ -141,11 +141,36 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'Machine Learning Specialization',
+      // body: 'Lorem ipsum dolor sit amet',
+      year: 'February 8, 2023',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/XJP4NXRVSKLV',
+    },
+        {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
     },
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+
   ],
   educations: [
     {
