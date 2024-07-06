@@ -127,7 +127,6 @@ const CONFIG = {
     {
       company: 'Folio3 Pvt. Ltd.',
       position: 'AI Intern',
-      body: 'DID THIS AND THAT',
       from: 'July 2023',
       to: 'September 2023',
       companyLink: 'https://folio3.com/',
@@ -142,36 +141,41 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Machine Learning Specialization',
-      body: 'This course provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)',
+      name: 'Machine Learning Specialization (Coursera)',
+      body: '',
       year: 'February 8, 2023',
       link: 'https://www.coursera.org/account/accomplishments/specialization/XJP4NXRVSKLV',
     },
         {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Deep Learning Specialization (Coursera)',
+      body: '',
+      year: 'April 12, 2023',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/DK75F53KP4AX',
     },
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+        {
+      name: 'Natural Language Processing with Classification and Vector Spaces (Coursera)',
+      body: '',
+      year: 'November 18, 2023',
+      link: 'https://coursera.org/share/87c6d5d270057cde5099ae75e50d1e9a',
     },
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+        {
+      name: 'Statistics For Business Analysis (365DataScience)',
+      body: '',
+      year: 'November 16, 2022',
+      link: 'https://learn.365datascience.com/certificates/CC-8BCBC8E2B1/',
     },
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+        {
+      name: 'Optical Character Recognition (OCR) MasterClass in Python (Udemy)',
+      body: '',
+      year: 'May 05, 2023',
+      link: 'https://www.udemy.com/certificate/UC-4042a651-fa67-444b-8f08-5060816b8cdf/',
     },
-
+        {
+      name: 'Data Analysis With Python (FreeCodeCamp)',
+      body: '',
+      year: 'September 26, 2022',
+      link: 'https://www.freecodecamp.org/certification/fcc14953419-0316-46cd-9128-9a67a4d406b6/data-analysis-with-python-v7',
+    },
   ],
   educations: [
     {
