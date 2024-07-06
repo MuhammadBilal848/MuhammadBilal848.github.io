@@ -116,19 +116,27 @@ const CONFIG = {
   ],
   
   experiences: [
+    
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Phoenix Technologies',
+      position: 'ML Engineer',
+      from: 'February 2024',
+      to: 'April 2024',
+      companyLink: 'https://phoenixtechnologies.co/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Folio3 Pvt. Ltd.',
+      position: 'AI Intern',
+      from: 'July 2023',
+      to: 'September 2023',
+      companyLink: 'https://folio3.com/',
+    },
+    {
+      company: 'Proxima AI',
+      position: 'Data Science Intern',
+      from: 'October 2022',
+      to: 'March 2023',
+      companyLink: 'https://www.proxima.pk/',
     },
   ],
   certifications: [
@@ -141,16 +149,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Karachi University - UBIT',
+      degree: 'BSSE',
+      from: '2020',
+      to: '2023',
     },
   ],
   // publications: [
