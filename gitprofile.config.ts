@@ -184,6 +184,18 @@ const CONFIG = {
       from: '2020',
       to: '2023',
     },
+    {
+      institution: 'Govt. Inter Boys College',
+      degree: 'Intermediate',
+      from: '2018',
+      to: '2019',
+    },
+    {
+      institution: 'B G G S',
+      degree: 'Matriculation',
+      from: '2017',
+      to: '2018',
+    },
   ],
   // publications: [
   //   {
