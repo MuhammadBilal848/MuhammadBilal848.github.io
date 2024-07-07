@@ -85,7 +85,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/MuhammadBilal848/MuhammadBilal848.github.io/blob/main/Bilal%20Haneef%20-%20Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Machine Learning',
