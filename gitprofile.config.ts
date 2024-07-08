@@ -118,6 +118,13 @@ const CONFIG = {
   experiences: [
     
     {
+      company: 'Paysys Labs Pvt. Ltd.',
+      position: 'Associate Data Scientist',
+      from: 'July 2024',
+      to: 'Present',
+      companyLink: 'https://www.paysyslabs.com/',
+    },
+    {
       company: 'Phoenix Technologies',
       position: 'ML Engineer',
       from: 'February 2024',
