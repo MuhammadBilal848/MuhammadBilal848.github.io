@@ -29,7 +29,7 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: ['MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-', 'MuhammadBilal848/GenView','MuhammadBilal848/Bone-Fracture-Identifier',
-                  'MuhammadBilal848/Next-Word-Predictor-LSTM-Implementation-','MuhammadBilal848/Query-X','MuhammadBilal848/Real-Time-License-Plate-Extraction-Using-Custom-Trained-YOLOv8',
+                  'MuhammadBilal848/Next-Word-Predictor-LSTM-Implementation-','MuhammadBilal848/ChatKU','MuhammadBilal848/Real-Time-License-Plate-Extraction-Using-Custom-Trained-YOLOv8',
                   'MuhammadBilal848/Student-Performance-Indicator','MuhammadBilal848/BlurX'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
