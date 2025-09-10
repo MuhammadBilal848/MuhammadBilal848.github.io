@@ -123,18 +123,18 @@ const CONFIG = {
   experiences: [
     
     {
+      company: 'Disrupt (formerly Gaditek)',
+      position: 'Associate AI Engineer',
+      from: 'September 2025',
+      to: 'Present',
+      companyLink: 'https://www.disrupt.com/',
+    },
+    {
       company: 'Paysys Labs Pvt. Ltd.',
       position: 'Associate Data Scientist',
       from: 'July 2024',
-      to: 'Present',
+      to: 'July 2025',
       companyLink: 'https://www.paysyslabs.com/',
-    },
-    {
-      company: 'Phoenix Technologies',
-      position: 'ML Engineer',
-      from: 'February 2024',
-      to: 'April 2024',
-      companyLink: 'https://phoenixtechnologies.co/',
     },
     {
       company: 'Folio3 Pvt. Ltd.',
