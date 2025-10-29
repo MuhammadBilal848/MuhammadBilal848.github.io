@@ -125,7 +125,7 @@ const CONFIG = {
     {
       company: 'Disrupt (formerly Gaditek)',
       position: 'Associate AI Engineer',
-      from: 'September 2025',
+      from: 'August 2025',
       to: 'Present',
       companyLink: 'https://www.disrupt.com/',
     },
